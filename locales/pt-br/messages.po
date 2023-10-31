@@ -23,22 +23,22 @@ msgstr ""
 "esperando... 🤦‍♀️"
 
 msgid "example.character.neutral.name"
-msgstr "Tim"
+msgstr "José"
 
 msgid "example.character.neutral.avatar-description"
-msgstr "Avatar do Slack de Tim"
+msgstr "Avatar do Slack de José"
 
 msgid "example.character.bad.name"
-msgstr "Keith"
+msgstr "Antônio"
 
 msgid "example.character.bad.avatar-description"
-msgstr "Avatar do Slack de Keith"
+msgstr "Avatar do Slack de Antônio"
 
 msgid "example.character.good.name"
-msgstr "Dawn"
+msgstr "Maria"
 
 msgid "example.character.good.avatar-description"
-msgstr "Avatar do Slack de Dawn"
+msgstr "Avatar do Slack de Maria"
 
 msgid "example.bad.title"
 msgstr "❌ não faça isso"
@@ -46,7 +46,7 @@ msgstr "❌ não faça isso"
 # the placeholder is the year, i.e. "2022"
 msgid "example.bad.body"
 msgstr ""
-"Note que Keith poderia ter recebido uma resposta minutos atrás, e não precisava ter deixado Tim esperando. Na verdade, Tim poderia ter começado a pensar na pergunta de imediato!\n"
+"Note que Antônio poderia ter recebido uma resposta minutos atrás, e não precisava ter deixado José esperando. Na verdade, José poderia ter começado a pensar na pergunta de imediato!\n"
 "\n"
 "Pessoas que fazem isso geralmente tentam ser educadas ao não ir direto ao ponto, como uma pessoa faria por telefone, e isso é ótimo! Mas estamos em %1$s e conversar por texto não funciona dessa forma. Para a maioria das pessoas, digitar é mais devagar do que falar. Então apesar das melhores intenções, **você só está fazendo a outra pessoa esperar** enquanto você formula sua pergunta, o que é produtividade perdida (e algo meio irritante).\n"
 "\n"
