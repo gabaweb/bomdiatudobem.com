@@ -422,7 +422,7 @@ h1.name {
 }
 
 .other-languages li:last-child:before {
-  content: '& ';
+  content: '';
 }
 
 .other-languages li:last-child:after {
