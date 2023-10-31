@@ -1,8 +1,6 @@
-# No Hello
+# bom dia, tudo bem?
 
-Hello!
-
-https://nohello.net/
+https://bomdiatudobem.com/
 
 ## Translators
 
