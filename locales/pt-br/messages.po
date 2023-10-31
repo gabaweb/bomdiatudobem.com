@@ -41,7 +41,7 @@ msgid "example.character.good.avatar-description"
 msgstr "Avatar do Slack de Dawn"
 
 msgid "example.bad.title"
-msgstr "❌ Não faça isso"
+msgstr "❌ não faça isso"
 
 # the placeholder is the year, i.e. "2022"
 msgid "example.bad.body"
@@ -88,7 +88,7 @@ msgid "example.bad.reply2.body"
 msgstr "ahh, 15:30 amg"
 
 msgid "example.good.title"
-msgstr "✅ No lugar, tente isso"
+msgstr "✅ tente isso"
 
 msgid "example.good.body"
 msgstr ""
