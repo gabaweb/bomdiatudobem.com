@@ -143,11 +143,11 @@ msgstr ""
 
 msgid "footer.thanks"
 msgstr ""
-"Baseado no maravilhoso "
-"[nohello.com](https://web.archive.org/web/20131127020115/http://www.nohello.com/)."
-" Avatares tirados de *[The "
-"Office](https://en.wikipedia.org/wiki/The_Office_(British_TV_series))*. "
-"Código aberto no [GitHub](https://github.com/nohello-net/site)."
+"Baseado no "
+"[nohello.com](http://www.nohello.com/). "
+"Avatares: *[The "
+"Office (UK)](https://en.wikipedia.org/wiki/The_Office_(British_TV_series))*. "
+"Código: [GitHub](https://github.com/gabaweb/bomdiatudobem.com/)."
 
 # prefix before a list of languages, i.e. This site is available in: English,
 # French, & German
